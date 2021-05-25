@@ -1,0 +1,5 @@
+Solving Launch issues
+
+Delete WEB-INF file in STS directory .metadata/.plugin/.org.eclipse.wst.server.core
+
+Change file in .setting for Project from 4.0 to 3.0

@@ -1,0 +1,16 @@
+2021-05-12 09:34:13 ERROR ERSConnection:27 - There was an issue connecting to the data base.
+2021-05-12 09:50:02 ERROR ERSConnection:27 - There was an issue connecting to the data base.
+2021-05-19 04:06:41 ERROR ERSConnection:26 - There was an issue connecting to the data base.
+2021-05-19 04:07:41 INFO  ReimbDAOImpl:234 - There was an issue when adding a reimbursement.
+2021-05-19 04:10:33 INFO  ReimbDAOImpl:234 - There was an issue when adding a reimbursement.
+2021-05-19 04:11:00 INFO  ReimbDAOImpl:234 - There was an issue when adding a reimbursement.
+2021-05-19 04:11:18 INFO  ReimbDAOImpl:234 - There was an issue when adding a reimbursement.
+2021-05-19 04:29:21 ERROR ERSConnection:26 - There was an issue connecting to the data base.
+2021-05-19 04:38:04 ERROR ERSConnection:30 - There was an issue connecting to the data base.
+2021-05-19 04:41:08 ERROR ERSConnection:30 - There was an issue connecting to the data base.
+2021-05-19 04:41:35 ERROR ERSConnection:30 - There was an issue connecting to the data base.
+2021-05-19 05:01:06 ERROR ERSConnection:27 - There was an issue connecting to the data base.
+2021-05-19 13:08:29 INFO  UserDAOImpl:78 - There was an issue when selecting a user.
+2021-05-19 13:10:13 INFO  UserDAOImpl:78 - There was an issue when selecting a user.
+2021-05-20 19:03:06 ERROR ERSConnection:27 - There was an issue connecting to the data base.
+2021-05-24 15:35:06 INFO  ReimbDAOImpl:238 - There was an issue when adding a reimbursement.

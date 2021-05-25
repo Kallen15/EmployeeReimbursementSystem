@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+    "-//Hibernate/Hibernate Configuration DTD//EN"
+    "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+
+    <session-factory>
+
+        <!-- JDBC properties -->
+        <property name="hibernate.connection.url">jdbc:postgresql://database-1.c5conep3tcza.us-east-2.rds.amazonaws.com/</property>
+  		<property name="hibernate.connection.username">postgres</property>
+   	 	<property name="hibernate.connection.password">abbyluna56</property>
+   	 	
+   	 	<!-- Driver properties -->
+   	 	<property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
+        <property name="hibernate.connection.dialect">org.hibernate.dialect.PostgreSQLDialect</property>
+        <property name="hibernate.default_schema">hibernate</property>
+		<property name="hibernate.show_sql">true</property>
+		<property name="hibernate.format_sql">true</property>
+		<!-- change property to not drop old db instance -->
+		<property name="hibernate.hbm2ddl.auto">create</property>
+		
+		<mapping class="com.revature.models.Department"></mapping>
+    </session-factory>
+
+</hibernate-configuration>
