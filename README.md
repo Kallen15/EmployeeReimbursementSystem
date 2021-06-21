@@ -17,7 +17,7 @@ For a manager, this type of user can approve or deny employee reimbursement requ
 
 > Maven Dependencies
 * Jackson 2.12.3
-* Jackson Datatoye JSR310 2.12.3
+* Jackson Datatype JSR310 2.12.3
 * Java Servlet 4.0.1
 * JUnit 3.7.7
 * Mockito 4.11
